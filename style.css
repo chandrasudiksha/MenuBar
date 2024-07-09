@@ -1,0 +1,19 @@
+.head
+{
+    background-color: rgb(120, 120, 231);
+    padding: 30px;
+    word-spacing: 25px;
+    text-align: center;
+    box-shadow: 2px 2px gray;
+    margin: 20px;
+}
+a{
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 30px;
+    text-shadow: 2px 2px black;
+}
+a:hover{
+    text-decoration: underline;
+}
